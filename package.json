@@ -1,0 +1,16 @@
+{
+  "name": "dokku-puppeteer-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "puppeteer": "^0.10.1"
+  },
+  "engines": {
+    "node": "8.3.0"
+  }
+}
