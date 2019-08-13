@@ -23,4 +23,4 @@ The installation instructions assume Dokku version >=0.7
 
 5. (On your development machine). `git push dokku master`
 
-Dokku will now build the containers and launch your application. This will take a while. By the end it will give you the URL to your app. Visit that url and it should give you the Google search results for "test"
+Dokku will now build the containers and launch your application. This will take a while. By the end it will give you the URL to your app. Visit that url and it should give you the Puppeteer search results for "puppeteer"
