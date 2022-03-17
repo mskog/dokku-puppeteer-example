@@ -1,3 +1,8 @@
+## Deprecated
+Use this buildpack instead: https://github.com/jontewks/puppeteer-heroku-buildpack
+
+---
+
 # dokku-puppeteer-example
 An example app with Node.js, Express.js, [Puppeteer](https://github.com/GoogleChrome/puppeteer) and Chrome Headless.
 
